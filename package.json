@@ -1,0 +1,25 @@
+{
+  "name": "resources-microservice.pddivine",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pddivine/resources-microservice.pddivine.git"
+  },
+  "author": "Patrick Divine",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/pddivine/resources-microservice.pddivine/issues"
+  },
+  "homepage": "https://github.com/pddivine/resources-microservice.pddivine#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "config": "^1.26.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3"
+  }
+}

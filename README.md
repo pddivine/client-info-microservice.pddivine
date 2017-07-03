@@ -1,1 +1,1 @@
-# client-info-microservice.pddivine
+# resources-microservice.pddivine
